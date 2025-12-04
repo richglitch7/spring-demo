@@ -8,6 +8,6 @@ class DemoApplicationTests {
     @Test
     void testHello() {
         DemoApplication app = new DemoApplication();
-        assertEquals("Hello Wold!", app.hello());
+        assertEquals("Hello World!", app.hello());
     }
 }
